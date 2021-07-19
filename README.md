@@ -8,7 +8,13 @@ I will also provide textbooks if necessary!
 
 # The Odin Project and Free Code Camp
 
-Both great resources, I utilized [The Odin Project])https://www.theodinproject.com/) and [Free Code Camp](https://www.freecodecamp.org/) resources and continue to use FreeCodeCamp videos today. 
+Both great resources, I utilized:
+
+[The Odin Project](https://www.theodinproject.com/)
+
+and [Free Code Camp](https://www.freecodecamp.org/) resources.
+
+I continue to use FreeCodeCamp videos today for several purposes. 
 
 # C# Stuff
 
