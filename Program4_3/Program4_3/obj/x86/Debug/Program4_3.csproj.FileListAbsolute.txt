@@ -1,0 +1,19 @@
+C:\ttt\csharp\Program4_3\Program4_3\bin\Debug\Program4_3.exe
+C:\ttt\csharp\Program4_3\Program4_3\bin\Debug\Program4_3.pdb
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\Program4_3.exe
+C:\ttt\csharp\Program4_3\Program4_3\obj\x86\Debug\Program4_3.pdb
+C:\csharp\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.exe
+C:\csharp\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\bin\Debug\Program4_3.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\bin\Debug\Program4_3.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_3\Program4_3\obj\x86\Debug\Program4_3.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Form1.resources
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Properties.Resources.resources
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ttt\csharp\Program4_4\Program4_4\bin\Debug\Program4_4.exe
+C:\ttt\csharp\Program4_4\Program4_4\bin\Debug\Program4_4.pdb
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\Program4_4.exe
+C:\ttt\csharp\Program4_4\Program4_4\obj\x86\Debug\Program4_4.pdb
+C:\csharp\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.exe
+C:\csharp\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\bin\Debug\Program4_4.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\bin\Debug\Program4_4.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\bin\Debug\Program4_4.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\bin\Debug\Program4_4.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter04\Program4_4\Program4_4\obj\x86\Debug\Program4_4.csproj.GenerateResource.Cache
