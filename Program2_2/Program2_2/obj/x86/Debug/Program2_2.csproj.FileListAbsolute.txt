@@ -1,0 +1,17 @@
+C:\csharp\chapter02\Program2_2\Program2_2\bin\Debug\Program2_2.exe
+C:\csharp\chapter02\Program2_2\Program2_2\bin\Debug\Program2_2.pdb
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.exe
+C:\csharp\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.pdb
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.exe
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.pdb
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\bin\Debug\Program2_2.exe
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\bin\Debug\Program2_2.pdb
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Solutions to Programming Problems\chapter02\Program2_2\Program2_2\obj\x86\Debug\Program2_2.csproj.GenerateResource.Cache
